@@ -220,8 +220,10 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Full Stack Developer (MERN)**
-Hands-on experience with scalable web applications, authentication systems, and role-based dashboards.
+**Bhupendra Patil**  
+Full Stack Developer (MERN)
+
+Passionate full-stack developer with hands-on experience in building secure and scalable web applications using the MERN stack, including JWT authentication, role-based dashboards, and RESTful APIs.
 
 ---
 
